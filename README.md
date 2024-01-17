@@ -35,3 +35,6 @@ Profile page
 
 Create appointment page
 ![create page](https://github.com/PantelisAl/Laravel-Appointment-Booking-System/assets/101713234/418e36a7-e3e8-437e-8d79-80ef3ef03805)
+
+Update page
+![update page](https://github.com/PantelisAl/Laravel-Appointment-Booking-System/assets/101713234/c38c86cf-73fd-433a-95bf-522cee9fbcb9)
